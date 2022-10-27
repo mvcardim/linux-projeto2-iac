@@ -12,6 +12,7 @@ dnf install unzip -y
 echo "Baixando e copiando os arquivos da aplicação..."
 
 cd /tmp
+dnf install wget -y
 wget https://github.com/denilsonbonatti/linux-site-dio/archive/refs/heads/main.zip
 unzip main.zip
 cd linux-site-dio-main
