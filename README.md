@@ -4,4 +4,4 @@ Este script cria uma site apache2 como o conteudo do site apontado pelo comando 
 Foram feitas auteraçoes para ser implementado em ambiente fedora,hedhat .
 
 obs: E necessário ja ter um sistema linux com acesso a internet para que o site rode , como exemplo implentei em uma instacia na nuvem no seguite endereço :
-
+<ip_servidor>
